@@ -1,0 +1,7 @@
+*.o
+*.lex.c
+results/
+.history
+*.so
+*.bc
+tags
